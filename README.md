@@ -1,2 +1,2 @@
 # normmix
-R functions for a mixture of two normal distributions.
+R functions for mixtures of two normal distributions.
