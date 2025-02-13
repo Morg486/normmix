@@ -11,3 +11,4 @@ dimx =
   mixprop
   
   #make sure project options -> build tools -> roxygen selected -> roxygen options all selected
+  #roxygen is good for self documentation and everything is in the same file
