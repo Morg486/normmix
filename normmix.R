@@ -7,7 +7,7 @@
 #' @examples
 
 dimx = 
-  code -> roxygen skeleton
+  #code -> roxygen skeleton
   mixprop
   
   #make sure project options -> build tools -> roxygen selected -> roxygen options all selected
